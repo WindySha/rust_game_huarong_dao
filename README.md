@@ -7,7 +7,7 @@ The game has many names, such as:
 
 ## Play the game
 You can play an online WASM version here:   
-[huarong_dao](https://github.com/WindySha/rust_game_huarong_dao)
+[huarong_dao](https://windysha.github.io/rust_game_huarong_dao/)
 
 or, you can clone this project and run it:
 ```
